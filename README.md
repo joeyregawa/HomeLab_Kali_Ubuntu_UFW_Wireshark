@@ -2,7 +2,7 @@
 Cybersecurity: Simulating Attack with Kali using Nmap to Ubuntu and track the Pcap with Wireshark
 ![image](https://github.com/user-attachments/assets/df4e0d2a-d0fa-40e9-9e70-720b70177399)
 
-In this scenario, we will perform a simulated attack using the nmap tools and wireshark.
+In this scenario, we will perform a simulated attack using the nmap tools and capture network traffic using wireshark.
 - Nmap will use nmap -A [IP target]
   - The command nmap -A is used for aggressive scanning with Nmap, which enables OS detection, version detection, script scanning, and traceroute. This provides detailed 
     information about the target system, making it useful for security assessments and network exploration. Functionality of nmap -A:
